@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background-color:oldlace;
+    max-width: 100%;
+    margin-top: 0%;
+}
+
+.icon_tip .icon_noentry{
+    align-items: center;
+    vertical-align: middle;
+    width:fit-content;
+    height: fit-content;
+}
+
+.game-title{
+    color:sienna;
+}
+
+.tip{
+    color: green;
+    font-size: 15px;
+}
+
+.caution{
+    color: red;
+    font-size: 15px;
+}
+
+canvas{
+    align-items: center;
+    max-width: 100%;
+    display:block;
+    margin: 2% auto;
+    border: 5px double red;
+    box-shadow: 1px 3px 36px 5px rgba(0,0,0,0.75);
+}
+
+.copy_right{
+    opacity: 60%;
+    text-align: right;
+    font-size: small;
+}
